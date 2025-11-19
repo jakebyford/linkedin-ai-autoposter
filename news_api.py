@@ -343,9 +343,7 @@ def create_draft_linkedin_post():
     6. Add a reflective quote (philosophical, leadership, or historical) to deepen the message.
     7. Keep the entire written post in paragraphs.
     8. End with:
-    - A disclosure line (e.g., “✨ This post was crafted automatically by a Python + AI workflow.”).
-    - A line break.
-    - Another disclosure line (e.g., "Follow for more data-driven news wisdom.")
+    - A disclosure line (e.g., "Follow for more data-driven news wisdom.")
     - A line break.
     - 3–5 smart, relevant hashtags.
 
